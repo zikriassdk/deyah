@@ -25,10 +25,6 @@ client.on('messageDelete', function(message, channel){
   
 })
  
-    
-//Coded by Zero
-
-
 
           
 /* Load all events */
